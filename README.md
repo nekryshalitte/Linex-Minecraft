@@ -1,6 +1,8 @@
 # Linex
 
-Linex — лаунчер для Minecraft (Vanilla / Fabric / Forge / NeoForge / OptiFine) с отдельным установщиком. Написан на C# (.NET 8, WPF).
+Linex — лаунчер для Minecraft (Vanilla / Fabric / Forge / NeoForge / OptiFine) с отдельным установщиком. Разработан **Nekrysha Software**, написан на C# (.NET 8, WPF).
+
+Часть данных (новости, конфигурация, списки модов для раздела «Оптимизация») лаунчер получает с собственных серверов Nekrysha Software.
 
 Готовый установщик (`Linex.Installer.exe`) распространяется отдельно, собранные бинарники (`bin/`, `obj/`, `publish/`) в репозиторий не включены — см. `.gitignore`.
 
